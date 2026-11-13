@@ -1,8 +1,9 @@
-# College Knowledge Assistant using RAG
+# CampusKnowledge-AI
+ using RAG
 
 ## Project Overview
 
-**College Knowledge Assistant** is an AI-powered Retrieval-Augmented Generation (RAG) application that allows students to ask questions about college-related information through an interactive **Streamlit chatbot**.
+**CampusKnowledge-AI** is an AI-powered Retrieval-Augmented Generation (RAG) application that allows students to ask questions about college-related information through an interactive **Streamlit chatbot**.
 
 The system retrieves relevant information from a collection of college documents and uses a Large Language Model to generate answers based only on the retrieved document context.
 
@@ -296,7 +297,7 @@ This allows users to trace the answer back to the original document.
 ## Project Structure
 
 ```text
-College-Knowledge-Assistant-RAG/
+CampusKnowledge-AI/
 │
 ├── app/
 │   ├── app.py
@@ -324,13 +325,13 @@ College-Knowledge-Assistant-RAG/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/College-Knowledge-Assistant-RAG.git
+git clone https://github.com/YOUR-USERNAME/CampusKnowledge-AI.git
 ```
 
 ### 2. Navigate to the project
 
 ```bash
-cd College-Knowledge-Assistant-RAG
+cd CampusKnowledge-AI
 ```
 
 ### 3. Create a virtual environment
@@ -500,8 +501,8 @@ Possible future enhancements include:
 
 ## Author
 
-**Chaitali Chaudhari**
+**Himanshu Verma**
 
 Aspiring Data Analyst | Data Scientist | AI/ML Enthusiast
 
-GitHub: [Chaitalichaudhari17](https://github.com/Chaitalichaudhari17)
+GitHub: [Enverque](https://github.com/Enverque)
