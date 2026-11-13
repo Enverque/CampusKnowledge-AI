@@ -1,5 +1,4 @@
-# CampusKnowledge-AI
- using RAG
+# CampusKnowledge-AI using RAG
 
 ## Project Overview
 
